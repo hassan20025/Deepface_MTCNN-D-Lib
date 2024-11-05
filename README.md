@@ -26,8 +26,8 @@ module name "MTCNN AT VIDEOS .py"
 https://github.com/user-attachments/assets/94053e29-5fcc-49f2-9294-ffc6d0f26564
 
 
-
-## Preprocessing of image to enhance detection result 
+### -----------------------
+## Preprocessing of image to enhance detection results:
 
 The results after preprocessing is enhanced approximately 10% 
 
