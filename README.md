@@ -21,12 +21,10 @@ the second module is first but have some modifications to detect the human face 
 module name "MTCNN AT VIDEOS .py"
 
 ### some of our results : 
-# ح
-
 https://github.com/user-attachments/assets/94053e29-5fcc-49f2-9294-ffc6d0f26564
 
-
 ### -----------------------
+ 
 ## Preprocessing of image to enhance detection results:
 
 The results after preprocessing is enhanced approximately 10% 
@@ -40,3 +38,14 @@ The results after preprocessing is enhanced approximately 10%
 ![after pre](https://github.com/user-attachments/assets/2ae40396-b4b4-4b01-9312-1f23c25ca830)
 
 cheeck the code in file "MTCNN-Preprocessing.py" ... 
+
+
+
+## 2- D-Lib Module ...
+This module make a face recognition for human face at the our data dataset
+
+### Dataset:
+Dataset is publice dataset it is in kaggle:
+dataset link (https://www.kaggle.com/datasets/atulanandjha/lfwpeople?resource=download) 
+
+check the python file ... 
